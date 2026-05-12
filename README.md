@@ -2,13 +2,13 @@
 
 **BY A1123309**
 
-Cat Subway Runner is a cute cat-themed endless runner game for the browser. The game is built with HTML, CSS, JavaScript, and Three.js. The player controls a cute cat running through a pastel city railway, collecting paw coins, using power-ups, avoiding trains and obstacles, completing missions, and unlocking outfits in the shop.
+Cat Subway Runner is a cute cat-themed endless runner game for the browser. The game is built with HTML, CSS, JavaScript, and Three.js. The player controls a cute cat running through a pastel city while collecting paw coins and avoiding obstacles.
 
-The game is inspired by the feel of polished mobile runner games, but all characters, UI, and assets are original. The theme is a cat edition runner with a red hoodie cat, paw cap, kitty board, pink blossom trees, glowing paw coins, colorful trains, and soft cream/pink UI panels.
+The game is inspired by the feel of polished mobile runner games, but all characters, UI, and assets are original. The theme is a cat edition runner with a red hoodie cat, paw cap, kitty board, pins, and a security officer chasing from behind.
 
 ## Project Goal
 
-The goal of this project is to create a complete mini web game that feels playable and polished, not just a simple prototype. It includes real gameplay systems, saved progress, power-ups, missions, shop customization, sound, music, and a modern game-like interface.
+The goal of this project is to create a complete mini web game that feels playable and polished, not just a simple prototype. It includes real gameplay systems, saved progress, power-ups, missions, a shop, and progressive difficulty.
 
 ## Main Features
 
@@ -37,7 +37,7 @@ The goal of this project is to create a complete mini web game that feels playab
 
 The visual style follows a cute cat-runner direction:
 
-- cute cat character
+- Cute cat character
 - Pastel city railway environment
 - Pink blossom trees
 - Colorful buildings
@@ -154,7 +154,7 @@ Shop categories:
 - Accessories
 - Boards
 
-The shop includes a large animated preview. Clicking an item card previews that item before buying or equipping it. This makes skin changing clearer and more like a real mobile game customization screen.
+The shop includes a large animated preview. Clicking an item card previews that item before buying or equipping it. This makes skin changing clearer and more like a real mobile game customization experience.
 
 Saved shop data includes:
 
@@ -238,7 +238,7 @@ Different obstacles require different reactions:
 
 ## Officer System
 
-A security officer chases the cat from behind. Before each run begins, the officer catches the cat for a short intro animation. When the player loses, a similar caught animation plays before the Game Over screen.
+A security officer chases the cat from behind. Before each run begins, the officer catches the cat for a short intro animation. When the player loses, a similar caught animation plays before the game over screen appears.
 
 This makes the chase feel more alive and gives the game a stronger runner-game identity.
 
@@ -363,6 +363,4 @@ This project is suitable for a university web or game development project becaus
 
 ## Final Note
 
-Cat Subway Runner is an original cat-themed runner game inspired by the polished feeling of popular mobile endless runners, but with its own character design, UI style, item system, and cat railway theme.
-#   c a t - s u b w a y - r u n n e r  
- 
+Cat Subway Runner is an original cat-themed runner game inspired by the polished feeling of popular mobile endless runners, but with its own character design, UI style, item system, and cat railway gameplay mechanics. Have fun! 🐱
